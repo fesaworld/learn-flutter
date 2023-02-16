@@ -1,5 +1,5 @@
-import 'package:dio/dio.dart';
 import 'package:learn_flutter/const/app_const.dart';
+import 'package:dio/dio.dart';
 
 class NetworkCore {
   final dio = Dio();
